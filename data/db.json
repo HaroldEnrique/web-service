@@ -1,0 +1,15 @@
+{	"comments":"Evaluaciones finales",
+	"datos":[
+		{"course":"Desarrollo de Aplicaciones Distribuidas",
+		"date":"25 de junio de 2018"},
+		{"course":"Ingeniería de Software",
+		"date":"18 de junio de 2018"},
+		{"course":"Redes I",
+		"date":"28 de junio de 2018"},
+		{"course":"Métodos Numéricos",
+		"date":"26 de junio de 2018"},
+		{"coruse":"Análisis de Sistemas",
+		"date":"15 de junio de 2018"}	
+	]
+
+}
